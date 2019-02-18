@@ -1,0 +1,3 @@
+rootProject.name = 'CurrentBackgroundTaskProject'
+
+include ':app'
